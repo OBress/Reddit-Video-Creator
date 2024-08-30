@@ -1,6 +1,7 @@
 # Reddit-Video-Creator
 
-You know those Reddit story videos on TikTok? Yeah, this makes those.
+# You know those Reddit story videos on TikTok? Yeah, this makes those.
+
 ![Project Logo](media/images/Screenshot.png)
 
 **Example:**
