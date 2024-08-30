@@ -1,9 +1,14 @@
+Here’s a reformatted version of your GitHub README:
+
+---
+
+# Reddit-Video-Creator
 
 You know those Reddit story videos on TikTok? Yeah, this makes those.
 
-**Example-**
-Video - https://youtu.be/PZFq4n_LbN0
-*(Note: Since this is an example, there is only one story in this video.)*
+**Example:**
+- [YouTube Link](https://youtu.be/PZFq4n_LbN0)  
+  *(Note: Since this is an example, there is only one story in this video.)*
 
 ### Process of Creating These Videos:
 
@@ -40,4 +45,3 @@ Video - https://youtu.be/PZFq4n_LbN0
 ### **IMPORTANT**
 
 I have purposefully deleted/edited certain parts of the program, such as GPT prompts, to reduce the likelihood of people just downloading and running the program to make videos. All the core content/logic remains intact. This is to prevent widespread misuse of the program.
-
