@@ -5,7 +5,7 @@
 You know those Reddit story videos on TikTok? Yeah, this makes those.
 
 **Example:**
-[YouTube Link](https://youtu.be/PZFq4n_LbN0)  
+Example: https://youtu.be/PZFq4n_LbN0
 *(Note: Since this is an example, there is only one story in this video.)*
 
 ### Process of Creating These Videos:
