@@ -40,6 +40,11 @@
 10. **Repeat Process:**  
     Repeat the process for as many videos as you request.
 
+### Other Things:
+1. The process of getting the stories is seperated from the actual video creation due to several factors such as links being present in the story or poor story content. Too prevent this there is some manuel work done but can be set back to automatic if prefferred.
+2. There is a lot of unnecessary code throughout the program I know but since this is a personal project I just haven't gotten around to cleaning it up / might use in the future.
+3. Feel free to ask any questions regarding the program and how it works. 
+
 ### **IMPORTANT**
 
 I have purposefully deleted/edited certain parts of the program, such as GPT prompts, to reduce the likelihood of people just downloading and running the program to make videos. All the core content/logic remains intact. This is to prevent widespread misuse of the program.
