@@ -7,6 +7,8 @@ https://youtu.be/PZFq4n_LbN0
 (note since this is an example there is only one story in this video)
 
 
+
+
 Process of creating these videos:
 1. Using reddits PRAW api to search specific subreddits for stories of a specific length.
 2. Using gpt 4o to moderate, grade, change names, etc. of story(s).
@@ -19,3 +21,6 @@ Process of creating these videos:
 9. Finally the stories are concatenated together in the order gpt specified at the start of the process.
 10. Process repeats for as many videos as you request.
 
+
+**IMPORTANT**
+I have purposefully deleted/edited certain things in the program uploaded such as gpt prompts to reduce people just downloading and running the program to make videos. All the core content/logic remains. This is too prevent everyone being able to just download and run this program and spam posts.
