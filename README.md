@@ -2,7 +2,7 @@
 
 ### You know those Reddit story videos on TikTok? Yeah, this makes those.
 
-![Project Logo](media/images/Screenshot.png)
+[![Project Logo](media/images/Screenshot.png)](https://www.youtube.com/watch?v=(https://youtu.be/PZFq4n_LbN0))
 
 **Example:**
 - [YouTube Link](https://youtu.be/PZFq4n_LbN0)  
