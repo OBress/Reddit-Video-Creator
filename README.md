@@ -1,7 +1,3 @@
-Here’s a reformatted version of your GitHub README:
-
----
-
 # Reddit-Video-Creator
 
 You know those Reddit story videos on TikTok? Yeah, this makes those.
@@ -45,3 +41,5 @@ You know those Reddit story videos on TikTok? Yeah, this makes those.
 ### **IMPORTANT**
 
 I have purposefully deleted/edited certain parts of the program, such as GPT prompts, to reduce the likelihood of people just downloading and running the program to make videos. All the core content/logic remains intact. This is to prevent widespread misuse of the program.
+
+---
