@@ -40,7 +40,8 @@ You know those Reddit story videos on TikTok? Yeah, this makes those.
 10. **Repeat Process:**  
     Repeat the process for as many videos as you request.
 
----
 ### **IMPORTANT**
 
 I have purposefully deleted/edited certain parts of the program, such as GPT prompts, to reduce the likelihood of people just downloading and running the program to make videos. All the core content/logic remains intact. This is to prevent widespread misuse of the program.
+
+---
