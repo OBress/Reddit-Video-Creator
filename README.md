@@ -45,6 +45,19 @@
 2. There is a lot of unnecessary code throughout the program I know but since this is a personal project I just haven't gotten around to cleaning it up / might use in the future.
 3. Feel free to ask any questions regarding the program and how it works. 
 
+
+### Take aways:
+
+1. **Improvement at compartmentalizing my code to keep everything organized and build off of each new file/function.**  
+   
+2. **Thorough experience in serveral API's such as gpt, aws polly, and praw.**  
+   
+3. **Learned FFMPEG and how to utilize its speed to reduce the slowness of python.**
+   
+4.  **Experienced in using forced aligners like Aeneas and Montreal Forced Aligner for aligning audio back to the story.**
+
+5.  **Improved expierence with image editing libraries in python like PIL.**
+   
 ### **IMPORTANT**
 
 I have purposefully deleted/edited certain parts of the program, such as GPT prompts, to reduce the likelihood of people just downloading and running the program to make videos. All the core content/logic remains intact. This is to prevent widespread misuse of the program.
