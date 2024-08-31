@@ -52,7 +52,7 @@
    
 2. **Thorough experience in serveral API's such as gpt, aws polly, and praw.**  
    
-3. **Learned FFMPEG and how to utilize its speed to reduce the slowness of python.**
+3. **Learned FFMPEG and how to utilize its speed to make up for the slowness of python.**
    
 4.  **Experienced in using forced aligners like Aeneas and Montreal Forced Aligner for aligning audio back to the story.**
 
